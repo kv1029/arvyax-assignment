@@ -226,5 +226,5 @@ Example Response
 
 ## Author
 
-Ashu Gupta
+Kirti Vardhan Gupta
 B.Tech Computer Science Student
